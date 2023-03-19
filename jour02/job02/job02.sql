@@ -1,0 +1,2 @@
+DESCRIBE etage;
+DESCRIBE salles;
